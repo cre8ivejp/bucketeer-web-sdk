@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/cre8ivejp/bucketeer-web-sdk/compare/v0.2.2...v0.2.3) (2023-01-12)
+
+
+### Miscellaneous
+
+* change ci ([dc24cd2](https://github.com/cre8ivejp/bucketeer-web-sdk/commit/dc24cd264f685af732c6f3fff4b715e97034ff4e))
+
 ## [0.2.2](https://github.com/cre8ivejp/bucketeer-web-sdk/compare/v0.2.1...v0.2.2) (2023-01-12)
 
 
