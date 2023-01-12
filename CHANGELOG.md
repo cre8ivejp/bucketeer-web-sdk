@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/cre8ivejp/bucketeer-web-sdk/compare/v0.2.1...v0.2.2) (2023-01-12)
+
+
+### Miscellaneous
+
+* test ([#3](https://github.com/cre8ivejp/bucketeer-web-sdk/issues/3)) ([c49131a](https://github.com/cre8ivejp/bucketeer-web-sdk/commit/c49131abfd9dd479e4524592f35e8a151da0eead))
+
 ## 0.2.1 (2023-01-12)
 
 
