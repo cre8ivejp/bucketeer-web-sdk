@@ -24,5 +24,4 @@ jobs:
             ]
           release-type: node
           package-name: "@bucketeer/sdk"
-          release-as: 0.2.1
           bump-minor-pre-major: true
